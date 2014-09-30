@@ -1,0 +1,9 @@
+{
+  "predef": [
+    "__dirname",
+    "require",
+    "process",
+    "module",
+    "exports"
+  ]
+}
