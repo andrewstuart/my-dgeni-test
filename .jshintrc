@@ -4,6 +4,8 @@
     "require",
     "process",
     "module",
-    "exports"
+    "exports",
+    "JSON",
+    "console"
   ]
 }
